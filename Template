@@ -1,0 +1,24 @@
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <div id="container">
+        <div id="header">
+            <h1>Singapore Polytechnic Tchoukball</h1> 
+        </div>
+        <div id="content">
+            <div id="nav">
+                <h3>Navigation</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="sptb_girls">Girls videos</a></li>
+                    <li><a href="sptb_guys.html">Guys videos</a></li>
+                </ul>
+            </div>
+            <div id="main">
+                
+            </div>
+        </div>
+        <div id="footer">
+            By Webmasters of SPTB
+        </div>
+    </div>
+</html>
